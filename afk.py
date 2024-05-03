@@ -1,4 +1,10 @@
 #!/bin/python3
+
+'''
+This script can be found on https://github.com/Ctrl-Alt-Tea/AFK-Mouse-Mover
+'''
+
+
 import pyautogui
 import time
 
