@@ -14,7 +14,7 @@ jobs:
         os: ['windows-latest', 'ubuntu-latest', 'macos-latest']
 
     env:
-      MAIN_PY_FILE: 'main.py'  # Define the path to your main.py file here
+      MAIN_PY_FILE: 'afk.py'  # Define the path to your main.py file here
 
     steps:
     - name: Checkout code
