@@ -1,6 +1,8 @@
-# AFK Mouse Mover
+# AFK Mouse Mover  [![Build Executables](https://github.com/Ctrl-Alt-Tea/AFK-Mouse-Mover/actions/workflows/build-executables.yml/badge.svg?branch=main)](https://github.com/Ctrl-Alt-Tea/AFK-Mouse-Mover/actions/workflows/build-executables.yml)
 This bot helps keep you online/active when you are AFK (Away From Keyboard)
 If you would like to customise this you may refer to the .py file
+
+
 
 ### Supported Devices:
 - Windows
